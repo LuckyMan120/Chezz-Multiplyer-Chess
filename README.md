@@ -102,5 +102,4 @@ Example:
 
 
 ## Authors:
-* Khaled Daoudieh
-* Dima shahin
+* Kevin Travis
