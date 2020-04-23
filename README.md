@@ -87,14 +87,14 @@ By this the game should be running on `http://localhost:3000`
 Example:
 
 ``
-/api/user/khaled
+/api/user/kevin
 ``
 
 ```
 {
     "id": "123",
-    "name": "khaled",
-    "email": "khaled.dawodieh@gmail.com",
+    "name": "Kevintravis",
+    "email": "kevintravis120@gmail.com",
     "lastConnection": "now :p "
 }
 ```
